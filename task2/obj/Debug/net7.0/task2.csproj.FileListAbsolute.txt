@@ -1,0 +1,14 @@
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\GeegBrains\C#\lesson001\Lesson1\task2\bin\Debug\net7.0\task2.exe
+C:\GeegBrains\C#\lesson001\Lesson1\task2\bin\Debug\net7.0\task2.deps.json
+C:\GeegBrains\C#\lesson001\Lesson1\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\GeegBrains\C#\lesson001\Lesson1\task2\bin\Debug\net7.0\task2.dll
+C:\GeegBrains\C#\lesson001\Lesson1\task2\bin\Debug\net7.0\task2.pdb
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.dll
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\refint\task2.dll
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.pdb
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\GeegBrains\C#\lesson001\Lesson1\task2\obj\Debug\net7.0\ref\task2.dll
